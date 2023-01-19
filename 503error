@@ -1,0 +1,24 @@
+<html>
+<head>
+  <title>503 Service Unavailable</title>
+  <style>
+    body {
+      text-align: center;
+      background-color: #F0F8FF;
+    }
+    h1 {
+      color: #000080;
+    }
+    p {
+      color: #000080;
+    }
+  </style>
+</head>
+<body>
+  <h1>503 Service Unavailable</h1>
+<p style="font-size: larger;">The server is currently feeling a bit overwhelmed, so it's taking some time out for a bit of maintenance - don't worry, it'll be back soon!</p>
+<p style="font-size: larger;">Please try again in a few minutes or just refresh the page.</p>
+<p style="font-size: larger;">Are you against Adopting a Pet and saving a life?</p>
+<a href="https://www.adoptapet.com/" target="_blank"><img src="https://prod-assets.production.omega.aapdev.org/img/AAPLogo-BluewithTM.svg" alt="AAP Logo" /></a>
+<a href="https://www.adoptapet.com/" target="_blank"><img src="https://cdn.midjourney.com/4749480a-6887-4fd3-9c58-00929c53929b/grid_0.png" alt="These AI Cats want homes too!" width="100%" height="auto" />
+</html>
